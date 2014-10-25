@@ -27,6 +27,12 @@ gem install rspec-stackprof
 
 ## Usage
 
+In your `spec_helper.rb` file:
+
+```ruby
+require 'rspec/stackprof'
+```
+
 TODO: Write usage instructions here
 
 ## Contributing
